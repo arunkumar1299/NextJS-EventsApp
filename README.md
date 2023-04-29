@@ -22,3 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
  - NextJS
  - ReactJS
  - CSS Modules
+
+## Folder Structure:
+ ### The app's folder structure follows the conventions of file-based routing in Next.js:
+ - pages: Contains the pages of the app, organized by route.
+ - public: Contains static assets such as images, fonts, and stylesheets.
+ - public: Contains static assets such as images, fonts, and stylesheets
